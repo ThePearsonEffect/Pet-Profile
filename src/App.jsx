@@ -28,10 +28,9 @@ function App() {
   species: "Rabbit",
   age: 2,
   hobbies: ["Jumping", "Eating carrots", "Digging holes"],
-  imageUrl: "https://images.unsplash.com/photo-1581804928342-4e3405e39c91?auto=format&fit=crop&w=300&q=80"
+  imageUrl: "https://images.unsplash.com/photo-1535241749838-299277b6305f?auto=format&fit=crop&w=300&q=80"
 }
-
-  ]);
+]);
 
   const UNSPLASH_KEY = import.meta.env.VITE_UNSPLASH_KEY;
 
