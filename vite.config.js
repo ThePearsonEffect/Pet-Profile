@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Pet-Profile/', // This must match your repo name
+  base: '/Pet-Profile/', // 
 })
