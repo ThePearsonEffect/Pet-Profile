@@ -20,7 +20,7 @@ function App() {
   species: "Dog",
   age: 5,
   hobbies: ["Fetching balls", "Swimming", "Going for walks"],
-  imageUrl: "https://images.unsplash.com/photo-1558788353-f76d92427f16?auto=format&fit=crop&w=300&q=80"
+  imageUrl: "https://images.unsplash.com/photo-1581804928342-4e3405e39c91?auto=format&fit=crop&w=300&q=80"
 },
 {
   id: 3,
